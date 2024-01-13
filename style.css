@@ -1,20 +1,22 @@
 @import url('https://fonts.googleapis.com/css2?family=League+Spartan&display=swap');
 
-body{
+body
+{
     font-family:"League Spartan";
-    background-color: #f3f3f4;
+    background-color: #A9a9a9;
   }
   
-  h1{
-    font-family:"League Spartan";
+  h1
+  {
     font-size: 60px;
     text-align: center;
   }
 
-  h2{
+  h2
+  {
     text-align: center;
     color: #af0b0b;
-   font-size: 30px;
+    font-size: 30px;
    
   }
   
@@ -23,7 +25,8 @@ body{
     text-align:center;
   }
 
-  #image{
+  #image
+  {
     height:auto;
     max-width:700px;
     margin-left: auto;
@@ -31,7 +34,16 @@ body{
     display: block; 
   }
 
-  #tribute-link {
+  #tribute-link 
+  {
     font-size: 25px;
+    font-color:#ffffff;
+  }
+
+  #tribute-link-article
+  {
+    max-width:60%;
+    margin:auto;
+    font-size:30px;
   }
   
